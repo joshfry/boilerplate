@@ -5,9 +5,9 @@
 // -------------------------------------------------------------------
 
 // Bourbon & Bourbon Neat
-@import "../../dist/assets/bower/bourbon/app/assets/stylesheets/bourbon";
+@import "../../vendor/bower/bourbon/app/assets/stylesheets/bourbon";
 @import "variables/grid-settings";
-@import "../../dist/assets/bower/neat/app/assets/stylesheets/neat";
+@import "../../vendor/bower/neat/app/assets/stylesheets/neat";
 
 // Variables
 @import "variables/variables";
